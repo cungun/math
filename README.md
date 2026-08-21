@@ -4,6 +4,8 @@ Documenting math concepts I learn.
 
 ## Sources
 
+**DISCLAIMER:** I am **NOT** affiliated with any person or platform listed below.
+
 ### Platforms
 * <a href="https://www.mathwords.com/" target="_blank">Mathwords</a>
 * <a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a>
